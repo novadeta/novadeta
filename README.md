@@ -1,6 +1,6 @@
 <br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/ideapedyudi/ideapedyudi/main/1500x500.jpg"> </img>
+<img src="./1500x500.jpg"> </img>
 </p>
 
 #### 🧑Tentang Saya
@@ -36,54 +36,20 @@ Hai, Nama saya Ade Oktaviano Arrahman. Saya adalah seorang junior front end deve
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
 <br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/atom_io/atom_io-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/pinterest/pinterest-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/freepik/freepik-ar21.svg"></code>
-<br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-ar21.svg"></code>
+<br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/axios/axios-ar21.svg"></code>
- <br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/i18next/i18next-ar21.svg"></code>
-<code><img width="5%" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg"></code>
 </p>
-
-#### 🥈 Statistik Github saya
-
-<p align="center">
-<img align="" height='150px' src="https://github-readme-streak-stats.herokuapp.com/?user=ideapedyudi&theme=gotham" />
-</p>
-
-<p align="center">
-<img align="" height='150px' src="https://github-readme-stats.vercel.app/api?username=ideapedyudi&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="aryashah2k" /><img align="" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ideapedyudi&hide_title=false&layout=compact&theme=gotham&count_private=true" />
-</p>
-
-![](https://activity-graph.herokuapp.com/graph?username=ideapedyudi&theme=gotham)
-<br />
-<br />
-<img src="https://github-profile-trophy.vercel.app/?username=ideapedyudi&theme=onedark&column=7&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)">
-
 
 
 
