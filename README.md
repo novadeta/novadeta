@@ -4,7 +4,7 @@
 </p>
 
 #### Tentang Saya
-Hai 👋, Nama saya Ade Oktaviano Arrahman. Saya adalah seorang junior front end developer,saya suka mempelajari hal baru dalam hal teknologi
+Hai 👋, nama saya Ade Oktaviano Arrahman. Saya adalah seorang junior front end developer,saya suka mempelajari hal baru dalam hal teknologi
 
 #### Terhubung Dengan Saya
 
