@@ -3,39 +3,37 @@
 <img src="./1500x500.jpg"> </img>
 </p>
 
-#### 🧑Tentang Saya
-Hai, Nama saya Ade Oktaviano Arrahman. Saya adalah seorang junior front end developer,saya suka mempelajari hal baru dalam hal teknologi
+#### Tentang Saya
+Hai 👋, Nama saya Ade Oktaviano Arrahman. Saya adalah seorang junior front end developer,saya suka mempelajari hal baru dalam hal teknologi
 
-#### 🙋‍♀️ Ikuti / Terhubung Dengan Saya
+#### Terhubung Dengan Saya
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/nofeth)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/msyudi/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ideapedyudi@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-12b847?style=flat&logo=WhatsApp&logoColor=white)](https://wa.me/6288226249068)
-[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100034563691844)
-[![Instagram](https://img.shields.io/badge/-instagram-c1558b?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/ideapedyudi/)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-12b847?style=flat&logo=WhatsApp&logoColor=white)](https://wa.me/6281336156031)
+[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/natsuki.freedom/)
+[![Instagram](https://img.shields.io/badge/-instagram-c1558b?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/adeokta07/)
 
-#### 🌱 Hal-hal yang sedang saya lakukan 
-- Belajar pemrograman Javascript (#reactjs #nextjs #nodejs #vuejs #nuxtjs #remixjs #docker #kubernate #sql #nosql #web3)
-- Berkontribusi dalam pekerjaan
+#### Hal-hal yang sedang saya lakukan 
+- Belajar pemrograman Javascript (Reactjs,Nodejs,nextjs)
+- Membaca Buku
 
-#### :muscle: Hal-hal yang saya tantang diri saya dengan
+#### Hal-hal yang saya tantang diri saya dengan
 - Bangun lebih awal untuk memanfaatkan hari dengan baik
-- Coding minimal 8 jam sehari
-- Berolahraga 3 hari seminggu
-- Meningkatkan CV saya dengan beberapa pendidikan selain sekolah
+- Coding minimal 4 jam sehari
+- Berolahraga 2 kali seminggu
 
-#### ⭐️ Hal ingin saya raih
-- Berkontribusi merubah peradaban menggunakan programming 
-- Membuat aplikasi aplikasi bermanfaat dan mengasah keterampilan saya
-- Meningkatkan portofolio dan pengalaman dalam bisnis
+#### Hal ingin saya raih
+- Bermanfaat bagi semua orang
+- Membahagiakan kedua Orang tua saya
+- Bekerja sesuai bidang saya
 
-#### :computer: Bahasa dan alat pemrograman 
+#### Bahasa dan alat pemrograman 
 <p>
   
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></code>
 <br/>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></code>
@@ -48,7 +46,7 @@ Hai, Nama saya Ade Oktaviano Arrahman. Saya adalah seorang junior front end deve
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/axios/axios-icon.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></code>
-
+</p>
 
 
 <!---
