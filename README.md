@@ -23,11 +23,6 @@ Hai 👋, nama saya Ade Oktaviano Arrahman. Saya adalah seorang junior front end
 - Coding minimal 4 jam sehari
 - Berolahraga 2 kali seminggu
 
-#### Hal ingin saya raih
-- Bermanfaat bagi semua orang
-- Membahagiakan kedua Orang tua saya
-- Bekerja sesuai bidang saya
-
 #### Bahasa dan alat pemrograman 
 <p>
   
