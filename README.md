@@ -4,9 +4,10 @@
 </p>
 
 #### Tentang Saya
-Hai 👋, nama saya Ade Oktaviano Arrahman. Saya adalah seorang junior front end developer,saya suka mempelajari hal baru dalam hal teknologi
+Hi! I'm Ade Oktaviano Arrahman, a **Web Developer** passionate about exploring the latest technologies and crafting engaging, interactive websites. I'm always open to new challenges in the web development world. Let's collaborate and create something awesome together!
 
-#### Terhubung Dengan Saya
+
+#### Connect with me!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/nofeth)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adeoktaviano/)
