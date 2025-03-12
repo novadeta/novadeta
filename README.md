@@ -3,7 +3,7 @@
 <img src="./1500x500.jpg"> </img>
 </p>
 
-Focusing on web development and modern software architecture. Passionate about new technologies, building interactive websites, and open to challenges and collaboration.
+<p align="center">Focusing on web development and modern software architecture. Passionate about new technologies, building interactive websites, and open to challenges and collaboration. </p>
 
 #### Connect with me!
 
