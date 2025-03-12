@@ -3,9 +3,7 @@
 <img src="./1500x500.jpg"> </img>
 </p>
 
-#### Tentang Saya
-Hi! I'm Ade Oktaviano Arrahman, a **Web Developer** passionate about exploring the latest technologies and crafting engaging, interactive websites. I'm always open to new challenges in the web development world. Let's collaborate and create something awesome together!
-
+Focusing on web development and modern software architecture. Passionate about new technologies, building interactive websites, and open to challenges and collaboration.
 
 #### Connect with me!
 
